@@ -1,3 +1,5 @@
+![Project Architecture](vprofile%20projectsetup%20Automate.png)
+
 # Prerequisites
 #
 - JDK 17/21
