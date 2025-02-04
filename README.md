@@ -1,6 +1,8 @@
 ![Project Architecture](vprofile%20projectsetup%20Automate.png)
 
 **BOTH AUTOMATED AND MANUAL PROVISIONING- FOLLOW THE BASH SCRIPT FILES AND MANUAL**
+
+
 Multi-Tier Application Setup using Bash Scripts
 Project Overview
 This project sets up a multi-tier application architecture locally using Bash scripts (.sh files) to automate the deployment of different components. The architecture follows a three-tier model, where each tier is responsible for a different function of the application.
